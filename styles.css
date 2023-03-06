@@ -1,0 +1,12 @@
+#fondo-imagen {
+    opacity: 0.5;
+}
+
+#aviso {
+    position: fixed;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    text-align: center;
+    background-color: aliceblue;
+}
